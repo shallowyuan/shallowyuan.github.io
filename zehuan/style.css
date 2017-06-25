@@ -20,7 +20,7 @@ a[href $="pdf"]:after {padding-left: 4px;content: url(../icons/pdf-icon-white-16
 a[href $="bib"]:after { padding-left: 4px;content: url(../images/icons/bib-icon-16x16.png);}
 a[href *="slides"], a[href $="slides.pdf"]:after {padding-left: 4px;content: "Video" url(../images/icons/ppt-icon-16x16.png);}
 #header { float: left; width: 880px; margin: 0 0 25px 0; }
-#header #header-content { float: left; width: 500px; }
+#header #header-content { float: left; width: 560px; }
 #header #header-content h1 { margin: 0 0 2px 0; color: #444; }
 #header #header-content h2 { color: #444; font-size: 20px; }
 #header #header-content p { font-size: 15px; margin: 0 0 0 1px; text-align:justify}
@@ -28,7 +28,7 @@ a[href *="slides"], a[href $="slides.pdf"]:after {padding-left: 4px;content: "Vi
 #header #header-content .contact { font-size: 16px; color: #888; margin: 0; }
 #header #header-content .contact span { color: #444; width: 75px;  } 
 #header #header-photo { float: right;  margin-top: 15px; background-color: #eee;  padding: 5px 5px 0px 5px; -webkit-box-shadow: 0px 0 10px #aaa; -moz-box-shadow: 0px 0 10px #aaa; box-shadow: 0px 0 10px #aaa; }
-#header #header-photo img { width: 345px; height: 280px; border: 1px #ddd solid; }
+#header #header-photo img { width: 250px; height: 280px; border: 1px #ddd solid; }
 #header #header-content #AKA:p{ font-size: 18px; margin: 0 0 0 1px; }
 #content .cv-section { width: 880px; margin: 0 0 0 0; }
 #content .cv-section h3 { font-size: 28px; color: #444; margin: 20px 0 15px 0;  }
